@@ -1,4 +1,4 @@
-# terra-demo
+# FNO-demo
 
 A demonstration of aeromagnetic inversion using neural operators and Bayesian optimization.
 
