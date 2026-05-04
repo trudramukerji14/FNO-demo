@@ -2,6 +2,8 @@
 
 A demonstration of aeromagnetic inversion using neural operators and Bayesian optimization.
 
+![Aeromagnetic inversion result](download.png)
+
 ## Overview
 
 This project implements a full pipeline for recovering subsurface magnetic susceptibility parameters from aeromagnetic survey data:
